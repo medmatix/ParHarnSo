@@ -2,7 +2,7 @@
 A Raspian OpenMPI Cluster of Quad-core RaspberryPi2 Boards
 
 ###Overview
-Consists of 4(or more) RaspberryPI2 systems
+Consists of 4(more tentatively planned) RaspberryPI2 systems
 
 ###Hardware List
   
@@ -12,9 +12,18 @@ Consists of 4(or more) RaspberryPI2 systems
     *  32GB SD card
   - 4 USB (micro to mini) cables
   - 1 4 station USB charger
-  - 1 5 port ethernet switch
+
+###OS and Tools 
+  -  Raspian (Debian scaled for RaspberryPi2)
+  -  OpenMPI
+
+###Programming and Application Support
+  -  GCC (C/C++, Gfortran compilers)
+  -  Gnu R Statistical Programming environment
+  -  Python 3 / Spyder Programming environment
+
   
-see,
+###References,
   
 [Raspberry Pi Foundation](https://www.raspberrypi.org/blog/)
   
