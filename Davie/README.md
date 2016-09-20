@@ -4,6 +4,9 @@ An Embarassingly Parallel Linux Cluster
 
 The cluster is growing by node, currently being 2 nodes of AMD64 processors, without an apriori specific node number goal in the plan.
 
+###Overview
+  
+  
 ###Hardware List:
 
   - 2, AMD64 series FX8350, 4.0 GHz clocked (with CPU fans included)
@@ -33,5 +36,6 @@ These are installed on each node, but clearly application programming is typical
   
   
 ###References
-  
+  - Sterling, Thomas; Beowulf Cluster Computing with Linux, MIT Press, Cambridge MA, 2002. (also there is an Edition for Windows 2000)
+  - Adams, Joel; Microwulf: A Personal, Portable Beowulf Cluster, https://www.calvin.edu/~adams/research/microwulf/ (Aug 1, 2007) accessed September 20, 2016 2:37PM EST.
   
