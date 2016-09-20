@@ -1,0 +1,6 @@
+{
+  "name": "Parharnso",
+  "tagline": "Building, Configuring and Programming Beowulf Systems",
+  "body": "# ParHarnSo\r\n##Parallel Hardware and Software Projects\r\nBuilding, Configuring and Programming Beowulf Systems\r\n\r\n###A Raspiwulf Cluster Project\r\nA Raspian OpenMPI Cluster of Quad-core RaspberryPi2 Boards\r\n\r\n###DAVIE Project\r\nAn Embarassingly Parallel Linux Cluster\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
