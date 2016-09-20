@@ -26,4 +26,4 @@ These are installed on each node, but clearly application programming is typical
   -  GCC Gnu compiler collection
      (C/C++, Gfortran95 compilers)
   -  Gnu R Statistical Programming Environment
-  -  Python 3 programmin environment (Spyder IDE)
+  -  Python 3 programming (Spyder IDE) environment 
